@@ -10,7 +10,7 @@ class demo_model():
 
     def __init__(self):
         '''Load all required input data and parameters'''
-        return True
+        return None
 
     def reset(self):
         '''Reset model parameters'''
