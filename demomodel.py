@@ -1,7 +1,7 @@
 
 class demo_model():
     """ 
-    Demo
+    Demo model
     """
 
     @staticmethod
